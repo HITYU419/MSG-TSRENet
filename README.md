@@ -1,2 +1,2 @@
-# TSRNet
-The code for TSRNet will be availabel here
+# TSRENet
+The code for TSRENet will be availabel here
